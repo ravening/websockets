@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/03/demos/demos/out/artifacts/demos_war_exploded/WEB-INF/lib/jackson-core-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03/demos/demos/out/artifacts/demos_war_exploded/WEB-INF/lib/jackson-databind-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03/demos/demos/out/artifacts/demos_war_exploded/WEB-INF/lib/jackson-annotations-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03/demos/demos/out/artifacts/demos_war_exploded/WEB-INF/lib/javax.json-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
