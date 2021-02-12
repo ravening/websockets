@@ -108,7 +108,7 @@ export default {
 
       this.socket.onmessage = message => {
         console.log(message.data);
-        this.received_messages.push(JSON.parse(message.data).content);
+        this.received_messages.unshift(JSON.parse(message.data).content);
       };
 
       this.socket.onclose = error => {
